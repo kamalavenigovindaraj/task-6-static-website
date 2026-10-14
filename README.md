@@ -25,7 +25,7 @@ This project demonstrates how to create and publish a simple static website usin
 6. Opened the published website.
 
 ## Live Website
-Replace this line with your actual GitHub Pages URL.
+https://kamalavenigovindaraj.github.io/task-6-static-website/
 
 ## Conclusion
 Successfully created and deployed a static website using GitHub Pages.
